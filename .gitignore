@@ -3,3 +3,6 @@
 *.png
 *.txt
 *.csv
+*.pyc
+__init__.py
+
