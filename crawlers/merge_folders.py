@@ -17,10 +17,10 @@ def add_to_dict(dict, image_path_str_list):
     return dict
     
 
-def merge_folders(folder1, folder2, use_csv):
+def merge_folders(folder1, folder2, copytofolder, use_csv):
     # Create a new folder called "merged_chairs"
-    if not os.path.exists("merged_chairs"):
-        os.makedirs("merged_chairs")
+    if not os.path.exists(copytofolder):
+        os.makedirs(copytofolder)
     
     # Get all images in both folders
     images1 = [ str(os.path.join(folder1, image)) for image in os.listdir(folder1) if image.endswith(".jpg")]
@@ -41,6 +41,7 @@ def merge_folders(folder1, folder2, use_csv):
         with open('a.txt','a+', encoding="utf-8") as f:
 
             for key, value in d.items():
+                
                 images = {image:Image.open(image) for image in value}
                 
                 
@@ -89,8 +90,9 @@ def merge_folders(folder1, folder2, use_csv):
         # Rename the image if it has a dash in the filename
         new_image_name = image.replace(".‒", "")
         new_image_name = new_image_name.split("\\")[-1]
-        shutil.copy(image, os.path.join("merged_chairs", new_image_name))
+        shutil.copy(image, os.path.join(copytofolder, new_image_name))
 
 
 if __name__ == "__main__":
-    merge_folders("images", "images_chair_old", use_csv=True)
+    copytofolder = "crawlers/fahrrad_google/images_removed_duplicates"
+    merge_folders("crawlers/fahrrad_google/images", "crawlers/fahrrad_google/images_cloned", copytofolder,use_csv=False)
