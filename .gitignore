@@ -6,6 +6,8 @@
 *.pyc
 __init__.py
 *.zip
-
+*.pickle
+*.npz
+*.npy
 
 
