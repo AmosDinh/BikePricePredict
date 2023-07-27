@@ -1,6 +1,7 @@
 .venv/
 *.jpg
 *.png
+!/PowerPoint/img/*.png
 *.txt
 *.csv
 *.pyc
