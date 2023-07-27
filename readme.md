@@ -61,3 +61,15 @@ Here are my PowerPoint slides:
 ![Slide 29](PowerPoint/img/Slide29.PNG)
 
 ![Slide 30](PowerPoint/img/Slide30.PNG)
+
+![Slide 31](PowerPoint/img/Slide31.PNG)
+
+![Slide 32](PowerPoint/img/Slide32.PNG)
+
+![Slide 33](PowerPoint/img/Slide33.PNG)
+
+![Slide 34](PowerPoint/img/Slide34.PNG)
+
+![Slide 35](PowerPoint/img/Slide35.PNG)
+
+![Slide 36](PowerPoint/img/Slide36.PNG)
