@@ -10,7 +10,7 @@ This is a personal project finished as a 2 member group-project for university. 
 4. Interested in the tensorflow model or clean dataset? Please contact me :)
 
 
-Results: From PowerPoint slides, the actuall notebook "BikePricePrediction" is of course more detailed but also contains university requirements (preliminaries etc.):
+Results: From PowerPoint slides, the actual notebook "BikePricePrediction" is of course more detailed but also contains university requirements (preliminaries etc.):
 ![Slide ](PowerPoint/img/Slide32.PNG)
 
 ![Slide ](PowerPoint/img/Slide35.PNG)
