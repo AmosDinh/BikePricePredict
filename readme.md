@@ -11,10 +11,10 @@ This is a personal project finished as a 2 member group-project for university.
 
 
 Results: From PowerPoint slides, the actuall notebook "BikePricePrediction" is of course more detailed but also contains university requirements (preliminaries etc.):
-![Slide ](PowerPoint/img/Slide31.PNG)
+![Slide ](PowerPoint/img/Slide32.PNG)
 
-![Slide ](PowerPoint/img/Slide34.PNG)
 ![Slide ](PowerPoint/img/Slide35.PNG)
+![Slide ](PowerPoint/img/Slide36.PNG)
 
 
 Below is the full presentation with a high level overview over the project.
