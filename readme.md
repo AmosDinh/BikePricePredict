@@ -18,7 +18,8 @@ Results: From PowerPoint slides, the actual notebook "BikePricePrediction" is of
 
 
 Below is the full presentation with a high level overview over the project.
-- [Table of Content](#my-powerpoint-slides)
+
+[Table of Content]()
 
   - [1. Problem formulation](#slide-3)
   - [2. Crawling](#slide-4)
