@@ -1,7 +1,7 @@
 # Bike Price-Prediction
 
 
-This is a personal project finished as a 2 member group-project for university.
+This is a personal project finished as a 2 member group-project for university. The project is inspired by [Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I), where one instructor mentions a similar project done by students.
 
 1. Web-Crawling of (bicycle-img, offer-price) mapping, 60000k images
 2. Cleanup and analysis
