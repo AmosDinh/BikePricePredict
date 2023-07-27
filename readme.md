@@ -21,19 +21,19 @@ Below is the full presentation with a high level overview over the project.
 - [Table of Content](#my-powerpoint-slides)
 
   - [1. Problem formulation](#slide-3)
-  - [2. Crawling](#slide-5)
+  - [2. Crawling](#slide-4)
 
-  - [3. Filtering and cleaning](#slide-6)
+  - [3. Filtering and cleaning](#slide-5)
   - [3.1. Filtering out non-bicycle images using ResNet(ImageNet) embeddings](#slide-7)
 
   - [3.2. Filter out remaining unwated images](#slide-13)
 
-  - [3.3. Remove duplicate images](#slide-18)
-  - [3.4. Is there bias?](#slide-19)
+  - [3.3. Remove duplicate images](#slide-16)
+  - [3.4. Is there bias?](#slide-17)
 
-  - [3.5. Preprocessing ](#slide-23)
-  - [3.5 Mean Image](#slide-24)
-  - [3.5 Data Split](#slide-25)
+  - [3.5. Preprocessing ](#slide-21)
+  - [3.5 Mean Image](#slide-22)
+  - [3.5 Data Split](#slide-23)
   - [4. Loss Function](#slide-26)
 
   - [5. Baseline Model](#slide-28)
