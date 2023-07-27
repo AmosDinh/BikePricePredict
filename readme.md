@@ -7,7 +7,7 @@ This is a personal project finished as a 2 member group-project for university.
 2. Cleanup and analysis
 3. "Proof of concept" ResNet50 & Robust Model using MAPE (Mean Absolute Percentage Error)
 4. Visualization using GradCam
-4. Interested in the tensorflow model? Please contact me :)
+4. Interested in the tensorflow model or clean dataset? Please contact me :)
 
 
 Results: From PowerPoint slides, the actuall notebook "BikePricePrediction" is of course more detailed but also contains university requirements (preliminaries etc.):
