@@ -4,7 +4,7 @@
 This is a personal project finished as a 2 member group-project for university. The project is inspired by [Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I), where one instructor mentions a similar project done by students.
 
 1. Web-Crawling of (bicycle-img, offer-price) mapping, 60000k images
-2. Cleanup and analysis
+2. Cleanup and analysis of data
 3. "Proof of concept" ResNet50 & Robust Model using MAPE (Mean Absolute Percentage Error)
 4. Visualization using GradCam
 4. Interested in the tensorflow model or clean dataset? Please contact me :)
